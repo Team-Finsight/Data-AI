@@ -2,6 +2,6 @@ pydantic==2.4.2
 langchain==0.0.316
 streamlit_chat
 streamlit
-openai
-pandasai
+openai==0.28.1
+pandasai==1.5.19
 beautifulsoup4
