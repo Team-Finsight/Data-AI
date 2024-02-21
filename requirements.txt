@@ -4,3 +4,4 @@ streamlit
 openai==0.28.1
 pandasai==1.5.19
 beautifulsoup4
+openpyxl
