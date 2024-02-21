@@ -4,3 +4,4 @@ streamlit_chat
 streamlit
 openai
 pandasai
+beautifulsoup4
